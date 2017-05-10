@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: ExaPar201414990
+  host: ExaPar201414990
+  disk_quota: 1024M
